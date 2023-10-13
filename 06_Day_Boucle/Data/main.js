@@ -1,7 +1,5 @@
 // For loop structure
-// for(initialization, condition, increment/decrement){
-//   // code goes here
-// }
+// git
 
 
 for(let i = 0; i <= 5; i++){
